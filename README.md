@@ -83,9 +83,9 @@ $ pip freeze > requirements.txt
 $ pip install -r requirements.txt
 ```
 Note:If you run this project in local,you should:
-  ### DEBUG=True
+  # DEBUG=True
 
-  in your settings.py file.
+  in your settings.py(Django) file.
 
 ## Get involved! ##
 We are happy to receive bug reports, fixes, documentation enhancements, and other improvements.
